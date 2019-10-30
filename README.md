@@ -39,6 +39,7 @@ Audio edition in English read by John Gordon ([@yjohny](https://github.com/yjohn
 > * [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian)
 > * [Spanish](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
 > * [Uzbek](http://www.bestcarzin.com/blog/smart-questions-uzb/)
+> * [Vietnamese](https://gist.github.com/hoangtuan151/6d53d02d35463088d0948500f1d3046a)
 
 If you want to copy, mirror, translate, or excerpt this document, please see [copying policy](http://www.catb.org/~esr/copying.html) of Eric Steven Raymond.
 
