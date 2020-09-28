@@ -34,6 +34,7 @@ Audio edition in English read by John Gordon ([@yjohny](https://github.com/yjohn
 > * [Lithuanian](http://myscres.com/articles/kaip-uzduoti-klausimus-protinga-buda.html)
 > * [Polish](http://rtfm.killfile.pl/)
 > * [Portuguese](http://science-lakes.com/article43.html)
+> * [Persian](https://github.com/sergeantreacher/smart-question)
 > * [Romanian](http://wiki.lug.ro/mediawiki/index.php/Cum_se_pun_%C3%AEntreb%C4%83ri_%C3%AEn_mod_inteligent)
 > * [Russian](http://maddog.sitengine.ru/smart-question-ru.html)
 > * [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian)
