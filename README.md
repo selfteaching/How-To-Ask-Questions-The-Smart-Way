@@ -27,7 +27,7 @@ Audio edition in English read by John Gordon ([@yjohny](https://github.com/yjohn
 > * [German](http://www.tty1.net/smart-questions_de.html)
 > * [Greek](http://www.dionyziz.com/howto-smart-questions-gr/)
 > * [Hindi](http://kntuniversity.org/how-to-ask-questions-the-smart-way/)
-> * [Hungarian](http://www.forallworld.com/milyen-kerdeseket-okosan/)
+> * [Hungarian](http://esr.fsf.hu/smart-questions_hu.html)
 > * [Irish Gaelic](http://www.autoteileprofi.ch/blog/2016/04/01/newly-sin-iarr-ar-kuestions-tkhe-smart-wai)
 > * [Indonesion](https://www.chameleonjohn.com/translations/smart-questions-Indonesian)
 > * [Japanese](http://www.ranvis.com/articles/smart-questions.ja.html)
