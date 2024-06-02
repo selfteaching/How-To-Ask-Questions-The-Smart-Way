@@ -38,6 +38,7 @@ Audio edition in English read by John Gordon ([@yjohny](https://github.com/yjohn
 > * [Russian](http://maddog.sitengine.ru/smart-question-ru.html)
 > * [Serbian](http://www.autoersatzteile.de/blog/how-to-ask-questions-the-smart-way-in-serbian)
 > * [Spanish](http://www.sindominio.net/ayuda/preguntas-inteligentes.html)
+> * [Turkish](https://github.com/procyberian/How-To-Ask-Questions-The-Smart-Way/blob/master/How-To-Ask-Questions-The-Smart-Way.tr.md)
 > * [Uzbek](http://www.bestcarzin.com/blog/smart-questions-uzb/)
 
 If you want to copy, mirror, translate, or excerpt this document, please see [copying policy](http://www.catb.org/~esr/copying.html) of Eric Steven Raymond.
