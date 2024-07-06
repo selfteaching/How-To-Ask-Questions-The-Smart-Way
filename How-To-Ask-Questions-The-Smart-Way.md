@@ -387,7 +387,7 @@ So it is useful to frame your question to minimize the time commitment required 
 
 ### When asking about code
 
-Don't ask others to debug your broken code without giving a hint what sort of problem they should be searching for. Posting a few hundred lines of code, saying "it doesn't work", will get you ignored. Posting a dozen lines of code, saying "after line 7 I was expecting to see <x>, but <y> occurred instead" is much more likely to get you a response.
+Don't ask others to debug your broken code without giving a hint what sort of problem they should be searching for. Posting a few hundred lines of code, saying "it doesn't work", will get you ignored. Posting a dozen lines of code, saying "after line 7 I was expecting to see \<x\>, but \<y\> occurred instead" is much more likely to get you a response.
 
 The most effective way to be precise about a code problem is to provide a minimal bug-demonstrating test case. What's a minimal test case? It's an illustration of the problem; just enough code to exhibit the undesirable behavior and no more. How do you make a minimal test case? If you know what line or section of code is producing the problematic behavior, make a copy of it and add just enough supporting code to produce a complete example (i.e. enough that the source is acceptable to the compiler/interpreter/whatever application processes it). If you can't narrow it down to a particular section, make a copy of the source and start removing chunks that don't affect the problematic behavior. The smaller your minimal test case is, the better (see [the section called “Volume is not precision”](http://www.catb.org/~esr/faqs/smart-questions.html#volume)).
 
@@ -399,7 +399,7 @@ If you simply want a code review, say as much up front, and be sure to mention w
 
 Hackers are good at spotting homework questions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
 
-If you suspect you have been passed a homework question, but can't solve it anyway, try asking in a user group forum or (as a last resort) in a “user” list/forum of a project. While the hackers *will*spot it, some of the advanced users may at least give you a hint.
+If you suspect you have been passed a homework question, but can't solve it anyway, try asking in a user group forum or (as a last resort) in a “user” list/forum of a project. While the hackers *will* spot it, some of the advanced users may at least give you a hint.
 
 ### Prune pointless queries
 
@@ -527,7 +527,7 @@ Here are some classic stupid questions, and what hackers are thinking when they 
 | **Q:** | Can I convert an AcmeCorp document into a TeX file using the Bass-o-matic file converter? |
 | **A:** | Try it and see. If you did that, you'd (a) learn the answer, and (b) stop wasting my time. |
 | **Q:** | My {program, configuration, SQL statement} doesn't work      |
-| **A:** | This is not a question, and I'm not interested in playing Twenty Questions to pry your actual question out of you — I have better things to do. On seeing something like this, my reaction is normally of one of the following:do you have anything else to add to that?oh, that's too bad, I hope you get it fixed.and this has exactly what to do with me? |
+| **A:** | This is not a question, and I'm not interested in playing Twenty Questions to pry your actual question out of you — I have better things to do. On seeing something like this, my reaction is normally of one of the following: do you have anything else to add to that? oh, that's too bad, I hope you get it fixed. and this has exactly what to do with me? |
 | **Q:** | I'm having problems with my Windows machine. Can you help?   |
 | **A:** | Yes. Throw out that Microsoft trash and install an open-source operating system like Linux or BSD.Note: you *can* ask questions related to Windows machines if they are about a program that does have an official Windows build, or interacts with Windows machines (i.e., Samba). Just don't be surprised by the reply that the problem is with Windows and not the program, because Windows is so broken in general that this is very often the case. |
 | **Q:** | My program doesn't work. I think system facility X is broken. |
