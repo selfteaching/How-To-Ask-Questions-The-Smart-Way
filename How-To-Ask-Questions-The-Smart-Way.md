@@ -75,7 +75,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
   * [Courtesy never hurts, and sometimes helps](#courtesy-never-hurts--and-sometimes-helps)
   * [Follow up with a brief note on the solution](#follow-up-with-a-brief-note-on-the-solution)
 - [How To Interpret Answers](#how-to-interpret-answers)
-  * [RTFM and STFW: How To Tell You've Seriously Screwed Up](#rtfm-and-stfw--how-to-tell-you-ve-seriously-screwed-up)
+  * [RTFM, STFW and ATFA: How To Tell You've Seriously Screwed Up](#rtfm-and-stfw--how-to-tell-you-ve-seriously-screwed-up)
   * [If you don't understand...](#if-you-don-t-understand)
   * [Dealing with rudeness](#dealing-with-rudeness)
 - [On Not Reacting Like A Loser](#on-not-reacting-like-a-loser)
@@ -447,11 +447,13 @@ Among hackers, this sort of good followup behavior is actually more important th
 
 ## How To Interpret Answers
 
-### RTFM and STFW: How To Tell You've Seriously Screwed Up
+### RTFM, STFW and ATFA: How To Tell You've Seriously Screwed Up
 
 There is an ancient and hallowed tradition: if you get a reply that reads “RTFM”, the person who sent it thinks you should have Read The Fucking Manual. He or she is almost certainly right. Go read it.
 
 RTFM has a younger relative. If you get a reply that reads “STFW”, the person who sent it thinks you should have Searched The Fucking Web. He or she is almost certainly right. Go search it. (The milder version of this is when you are told “Google is your friend!”)
+
+Now, with the rapid advancement of AI and its immense help in our work, ATFA has emerged as the third staple reply. It means you should have Asked The Fucking AI before firing off a help request. He or she is almost certainly right. Go ask it.
 
 In Web forums, you may also be told to search the forum archives. In fact, someone may even be so kind as to provide a pointer to the previous thread where this problem was solved. But do not rely on this consideration; do your archive-searching before asking.
 
